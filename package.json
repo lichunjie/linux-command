@@ -36,7 +36,7 @@
     "sitemap-generator": "8.4.2",
     "sqlite3": "4.1.1",
     "stylus": "0.54.7",
-    "uglify-js": "3.8.0"
+    "uglify-js": "3.10.1"
   },
   "dependencies": {},
   "bugs": {
